@@ -24,9 +24,10 @@ In your terminal, create a new virtual environment:
 
 # Install Required Python Packages
 
-Flask
-flask-cors
-tensorflow
-numpy
-Pillow
-matplotlib
+- **Flask**: A lightweight WSGI web application framework.
+- **flask-cors**: A Flask extension for handling Cross-Origin Resource Sharing (CORS).
+- **TensorFlow**: An open-source library for machine learning and deep learning.
+- **NumPy**: A package for scientific computing with support for large, multi-dimensional arrays and matrices.
+- **Pillow**: The Python Imaging Library for image processing capabilities.
+- **Matplotlib**: A plotting library for creating static, animated, and interactive visualizations.
+
